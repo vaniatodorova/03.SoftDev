@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex09\bin\Debug\ex09.exe.config
+C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex09\bin\Debug\ex09.exe
+C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex09\bin\Debug\ex09.pdb
+C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex09\obj\Debug\ex09.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex09\obj\Debug\ex09.exe
+C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex09\obj\Debug\ex09.pdb

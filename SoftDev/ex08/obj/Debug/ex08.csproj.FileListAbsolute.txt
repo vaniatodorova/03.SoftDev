@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex08\bin\Debug\ex08.exe.config
+C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex08\bin\Debug\ex08.exe
+C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex08\bin\Debug\ex08.pdb
+C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex08\obj\Debug\ex08.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex08\obj\Debug\ex08.exe
+C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex08\obj\Debug\ex08.pdb
