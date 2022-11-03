@@ -28,8 +28,8 @@ namespace ConsoleMVC.Views
 		}
 		public void ShowTipAndTotal()
 		{
-			Console.WriteLine("Your tip is: {0:C}", TipAmount);
-			Console.WriteLine("Total will be {0:C}", Total);
+				Console.WriteLine("Your tip is: {0:C}", TipAmount);
+				Console.WriteLine("Total will be {0:C}", Total);
 		}
 	}
 }
