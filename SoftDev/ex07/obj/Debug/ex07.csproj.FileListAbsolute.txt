@@ -4,3 +4,9 @@ C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex07\bin\Debug\ex07.pdb
 C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex07\obj\Debug\ex07.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex07\obj\Debug\ex07.exe
 C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex07\obj\Debug\ex07.pdb
+F:\11a\03.SoftDev\SoftDev\ex07\bin\Debug\ex07.exe.config
+F:\11a\03.SoftDev\SoftDev\ex07\bin\Debug\ex07.exe
+F:\11a\03.SoftDev\SoftDev\ex07\bin\Debug\ex07.pdb
+F:\11a\03.SoftDev\SoftDev\ex07\obj\Debug\ex07.csproj.CoreCompileInputs.cache
+F:\11a\03.SoftDev\SoftDev\ex07\obj\Debug\ex07.exe
+F:\11a\03.SoftDev\SoftDev\ex07\obj\Debug\ex07.pdb

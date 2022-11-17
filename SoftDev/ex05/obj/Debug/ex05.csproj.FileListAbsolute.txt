@@ -4,3 +4,9 @@ C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex05\bin\Debug\ex05.pdb
 C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex05\obj\Debug\ex05.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex05\obj\Debug\ex05.exe
 C:\Users\User\Desktop\11\03.SoftDev\SoftDev\ex05\obj\Debug\ex05.pdb
+F:\11a\03.SoftDev\SoftDev\ex05\bin\Debug\ex05.exe.config
+F:\11a\03.SoftDev\SoftDev\ex05\bin\Debug\ex05.exe
+F:\11a\03.SoftDev\SoftDev\ex05\bin\Debug\ex05.pdb
+F:\11a\03.SoftDev\SoftDev\ex05\obj\Debug\ex05.csproj.CoreCompileInputs.cache
+F:\11a\03.SoftDev\SoftDev\ex05\obj\Debug\ex05.exe
+F:\11a\03.SoftDev\SoftDev\ex05\obj\Debug\ex05.pdb
